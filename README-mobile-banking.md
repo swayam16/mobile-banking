@@ -50,4 +50,3 @@ Or drag `index.html` into your browser window.
 
 ---
 
-*Part of a 3-project UI/UX portfolio. See the root README for the full collection.*
